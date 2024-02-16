@@ -1,3 +1,5 @@
+Data analysis of Walmart Data
+
 The goal of this project is to analyze Walmart's sales data from the Kaggle Walmart Sales Forecasting Competition, with a focus on identifying top-performing branches and products. The objective is to gain insights into the sales trends of various products and understand customer behavior. The ultimate aim is to explore opportunities for improving and optimizing sales strategies. The dataset includes historical sales data from 45 Walmart stores, each with multiple departments, and incorporates information about holiday markdown events that can influence sales. Participants in the competition are tasked with predicting sales for each department in each store, taking into account the impact of these markdown events, which adds an additional layer of complexity to the analysis.
 
 Generic Question
